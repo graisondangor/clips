@@ -1,6 +1,4 @@
-# Does this change the header title?
-
-## Graison Dangor - Stories I've reported
+## Stories I've reported
 
 
 ### Text stories
