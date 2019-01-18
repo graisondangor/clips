@@ -1,4 +1,4 @@
-## Graison Dangor - Stories I've reported
+## Stories I've reported
 
 
 ### Text stories
