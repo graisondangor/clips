@@ -2,7 +2,7 @@
 
 ## Text stories
 
--   **Times Square Investment Journal @CUNY j-school**
+-   **Times Square Investment Journal @ CUNY j-school**
     <br>
     [If your insurer denies mental healthcare, you can appeal](https://coveringcompanies.journalism.cuny.edu/2018/10/29/how-to-appeal-a-denial-of-mental-healthcare/) (10/2018)
 
