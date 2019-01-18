@@ -1,10 +1,11 @@
 ## Graison Dangor - Stories I've reported
 
+
 ### Text stories
 - Times Square Investment Journal @CUNY j-school
 [If your insurer denies mental healthcare, you can appeal](https://coveringcompanies.journalism.cuny.edu/2018/10/29/how-to-appeal-a-denial-of-mental-healthcare/) (10/2018)
 
-The Bridge - Brooklyn business news
+- The Bridge - Brooklyn business news
 [Immigration Clampdown: the Threat to Brooklyn’s Economy](https://thebridgebk.com/immigration-clampdown-threat-brooklyns-economy/) (7/2018)
 [In Booming Brooklyn, Who’s Getting Left Behind?](https://thebridgebk.com/booming-brooklyn-whos-getting-left-behind/) (7/2018)
 
@@ -22,12 +23,14 @@ The Bridge - Brooklyn business news
 [Role-playing scenarios help train those who deal with mental-health crises](https://www.minnpost.com/politics-policy/2014/11/role-playing-scenarios-help-train-those-who-deal-mental-health-crises/) (11/2014)
 [The Pedal Pub Wars began long before the Great Water Balloon Attack of 2015](https://www.minnpost.com/politics-policy/2015/06/pedal-pub-wars-began-long-great-water-balloon-attack-2015/) (6/2015)
 
+
 ### Audio stories
 
 - Radio North - a Minnesota podcast
  My brother and I [discuss his plans](http://www.brittagreene.com/radio-north/2016/12/19/ep-3-oh-brother) to become a police officer. (Producer, 15 min., 12/2016)
 - KFAI Minneapolis-St. Paul
 Nobody wants to get bitten by mosquitos for science. [This short story](https://soundcloud.com/minneculture/how-mosquito-control-decides-how-much-is-too-much) is about researchers who created an ingenious workaround. 
+
 
 #### If you've noticed some of my stories have a different last name..
 
