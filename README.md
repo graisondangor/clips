@@ -1,14 +1,14 @@
 ## Text stories
 
 -   Times Square Investment Journal @CUNY j-school
-    [If your insurer denies mental healthcare, you can appeal](https://coveringcompanies.journalism.cuny.edu/2018/10/29/how-to-appeal-a-denial-of-mental-healthcare/) (10/2018)
+    <br>[If your insurer denies mental healthcare, you can appeal](https://coveringcompanies.journalism.cuny.edu/2018/10/29/how-to-appeal-a-denial-of-mental-healthcare/) (10/2018)
 
 -   The Bridge - Brooklyn business news
-    [Immigration Clampdown: the Threat to Brooklyn’s Economy](https://thebridgebk.com/immigration-clampdown-threat-brooklyns-economy/) (7/2018)
-    [In Booming Brooklyn, Who’s Getting Left Behind?](https://thebridgebk.com/booming-brooklyn-whos-getting-left-behind/) (7/2018)
+    <br>[Immigration Clampdown: the Threat to Brooklyn’s Economy](https://thebridgebk.com/immigration-clampdown-threat-brooklyns-economy/) (7/2018)
+    <br>[In Booming Brooklyn, Who’s Getting Left Behind?](https://thebridgebk.com/booming-brooklyn-whos-getting-left-behind/) (7/2018)
 
 -   The Invisible Hand @ CUNY j-school
-    [New development chokes historic flower markets](http://bizeconreporting.journalism.cuny.edu/2018/05/21/new-development-chokes-historic-flower-markets/) (5/2018)
+    <br>[New development chokes historic flower markets](http://bizeconreporting.journalism.cuny.edu/2018/05/21/new-development-chokes-historic-flower-markets/) (5/2018)
 
 -   Al Jazeera
     <br>[US journalism students should undergo anti-overdose training](https://www.aljazeera.com/indepth/opinion/journalism-students-undergo-anti-overdose-training-180315125055224.html) (3/2018)
