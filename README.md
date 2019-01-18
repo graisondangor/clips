@@ -1,3 +1,5 @@
+# Clips
+
 ## Text stories
 
 -   **Times Square Investment Journal @CUNY j-school**
