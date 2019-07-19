@@ -4,6 +4,16 @@
 
 ## Text stories
 
+- **NPR and Kaiser Health News**
+    <br>
+    ['Mental Health Parity' Is Still An Elusive Goal In U.S. Insurance Coverage](https://www.npr.org/sections/health-shots/2019/06/07/730404539/mental-health-parity-is-still-an-elusive-goal-in-u-s-insurance-coverage) (06/2019)
+    [Legal Promise Of Equal Mental Health Treatment Often Falls Short](https://khn.org/news/legal-promise-of-equal-mental-health-treatment-often-falls-short/) (06/2019)
+    
+- **Financial Planning magazine**
+<br>
+    [Advisors fight insurers to pay long-term care benefits](https://www.financial-planning.com/news/insurers-deny-long-term-care-insurance-benefits-say-advisors-at-fpa-retreat) (05/2019)
+    [What to do when your client is IPO crazy](https://www.financial-planning.com/news/lyft-uber-pinterest-slack-should-your-clients-buy-ipos) (04/2019)
+
 -   **Times Square Investment Journal @ CUNY j-school**
     <br>
     [If your insurer denies mental healthcare, you can appeal](https://coveringcompanies.journalism.cuny.edu/2018/10/29/how-to-appeal-a-denial-of-mental-healthcare/) (10/2018)
